@@ -37,3 +37,8 @@ table{
 footer >p{
     font-size: 9pt;
 }
+video{
+    display: block; 
+    height: 250px;
+    width: 300px; ;
+}
