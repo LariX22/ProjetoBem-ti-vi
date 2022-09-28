@@ -1,0 +1,39 @@
+
+nav > a{
+    text-align:justify;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-bottom: 2px;
+    border-radius: 5px;
+    font-size: 7pt;
+}
+img{
+    
+    display: block; 
+    height: 250px;
+    width: 300px; ;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+}
+h1{
+    font-size: 15pt;
+}
+h2{
+    font-size: 12pt;
+}
+main{
+    width: auto;
+    margin: auto;
+}
+
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+}
+table{
+    font-size: 10pt;
+}
+footer >p{
+    font-size: 9pt;
+}

@@ -1,0 +1,89 @@
+@font-face {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    src: url(Font/SF\ Distant\ Galaxy\ Italic.ttf) format(ttf);
+}
+
+body{
+    background-image: url(../imagem/bemti.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+    background-image: linear-gradient(to right,#f5dd0886,#3640139d) ;
+      border: 5px solid #0a090160;
+      padding: 5px;
+      margin-bottom: 10px;
+      border-radius: 15px;
+      text-align: center;
+    
+  }
+  header >h1{
+      background-color:#a3772685;
+      color:#161410;
+      border: 5px solid #0a0901a8;
+      padding: 5px;
+      margin-bottom: 10px;
+      border-radius: 15px;
+      text-align: center;
+      font-family:Georgia, 'Times New Roman', Times, serif;
+      text-shadow: 3px 4px 3px #1F2326;
+  }
+  nav > a{
+    background-image: linear-gradient(to right,#f5dd0886,#3640139d) ;
+       color:#0A0901;
+       border: 5px solid #0a0901a8;
+       text-align:center;
+       margin-right:25px;
+       margin-bottom: 5px;
+       border-radius: 10px;
+ }
+ section{
+    background-image: linear-gradient(to right,#edd81d71,#3640137a) ;
+    border: 5px solid #0a0901a8;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+h1,h2{
+    color:#000000;
+    background-image: linear-gradient(to right,#edd81d71,#3640137a);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px 3px 2px #1F2326;
+    text-align: center;
+    border: 5px solid #0a0901a8;
+    border-radius: 15px;
+}
+main{
+    background-color:#3a340480;
+    width: 800px;
+    margin: auto;
+    border-radius:10px;
+    padding: 15px;
+}
+img{
+    margin: 5px auto;
+    display: block;
+}
+audio{
+    margin: 5px auto;
+    display: block;
+}
+video{
+    margin: 5px auto;
+    display: block;
+}
+ol{
+    columns: 2 ;
+      list-style-type:"\1F426";
+      background-color:#897d1185;  
+}
+footer{
+    background-color:#a3772685;
+    color:#161410;
+    border: 5px solid #0a0901a8;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 3px 4px 3px #1F2326;
+}
